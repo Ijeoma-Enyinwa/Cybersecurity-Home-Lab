@@ -14,7 +14,7 @@
 
 **Subnet:** 10.0.2.0/24
 
-**Node A (Attacker):** Kali Linux (10.0.2.5)
+**Node A (Attacker):** Kali Linux (10.0.2.5) - I chose the installer image (ISO) over the pre-built image (the VM) specifically to perform a manual installation for system hardening and custom partitioning.
 
 **Node B (Victim):** Windows 11 (10.0.2.10)
 
